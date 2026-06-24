@@ -15,15 +15,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Biajoliv&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Biajoliv&layout=compact&theme=github_dark&hide_border=true" />
-</div>
-
----
-
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bianca-jesus-oliveira)
